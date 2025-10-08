@@ -64,7 +64,7 @@ They are designed to **illustrate the content and methodology** in a neutral lay
 
 
 - 🇩🇪 [German Version (PDF)](./presentation/presentation_DE.pdf)  
-- 🇬🇧 [English Version (PDF)](./presentation/presentationEN.pdf)
+- 🇬🇧 [English Version (PDF)](./presentation/presentation_EN.pdf)
 
 ---
 
