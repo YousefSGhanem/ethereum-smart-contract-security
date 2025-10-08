@@ -61,8 +61,8 @@ The project consisted of two main phases:
 Below are simplified, public versions of my Bachelor’s thesis presentation.  
 They are designed to **illustrate the content and methodology** in a neutral layout.
 
-- 🇩🇪 [German Version (PDF)](./presentation/Bachelorarbeit_Presentation_Public_DE.pdf)  
-- 🇬🇧 [English Version (PDF)](./presentation/Bachelorarbeit_Presentation_Public_EN.pdf)
+- 🇩🇪 [German Version (PDF)](./presentation/presentation_DE.pdf)  
+- 🇬🇧 [English Version (PDF)](./presentation/presentationEN.pdf)
 
 ---
 
