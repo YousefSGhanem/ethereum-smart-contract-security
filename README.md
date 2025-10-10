@@ -14,7 +14,7 @@ The thesis combines **theoretical research** with **practical implementation and
 
 ## Research Question
 
-> *Which security-relevant risks occur during the development of Smart Contracts on Ethereum – and how can they be effectively detected and mitigated?*
+> *Which security-relevant risks occur during the development of Smart Contracts on Ethereum and how can they be effectively detected and mitigated?*
 
 ---
 
