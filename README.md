@@ -1,24 +1,24 @@
-# 🔒 Security Analysis of Smart Contracts on Ethereum
+# Security Analysis of Smart Contracts on Ethereum
 
 This repository presents the main outcomes and concepts of my **Bachelor’s thesis** in Computer Science at the **Frankfurt University of Applied Sciences**.  
 The goal of this project was to analyze security vulnerabilities in Ethereum Smart Contracts and to propose effective mitigation strategies through both theoretical and practical evaluation.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The objective of this work was to identify, analyze, and address security risks in Ethereum-based Smart Contracts.  
 The thesis combines **theoretical research** with **practical implementation and testing**.
 
 ---
 
-## 🧠 Research Question
+## Research Question
 
 > *Which security-relevant risks occur during the development of Smart Contracts on Ethereum – and how can they be effectively detected and mitigated?*
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 The project consisted of two main phases:
 
@@ -36,7 +36,7 @@ The project consisted of two main phases:
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 - Solidity (v0.8.0)
 - Remix IDE
@@ -47,7 +47,7 @@ The project consisted of two main phases:
 
 ---
 
-## 📊 Results
+## Results
 
 - Identified and mitigated **Reentrancy vulnerability**
 - Implemented **secure Ether transfer** and **immutable owner variable**
@@ -56,7 +56,7 @@ The project consisted of two main phases:
 
 ---
 
-## 📘 Project Presentation
+## Project Presentation
 
 Below are simplified, public versions of my Bachelor’s thesis presentation.  
 They are designed to **illustrate the content and methodology** in a neutral layout.
@@ -68,7 +68,7 @@ They are designed to **illustrate the content and methodology** in a neutral lay
 
 ---
 
-## 🧭 Outlook
+## Outlook
 
 Smart Contracts represent a powerful technology but still face challenges such as:
 - Scalability  
@@ -79,7 +79,7 @@ Future research may include combining Smart Contract analysis with **AI-driven s
 
 ---
 
-## 🧑‍🎓 Author
+## Author
 
 **Yousef Ghanem**  
 Bachelor of Science in Computer Science  
